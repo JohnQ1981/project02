@@ -40,7 +40,11 @@ public class FirstClass {
 		list.add("u");
 		System.out.println(list);
 		System.out.println("Changes from local John branch");
+
 		System.out.println("Conflicts on local John");
+
+		System.out.println("This will be conflict from GitHub");
+
 
 
 	}
