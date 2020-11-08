@@ -27,6 +27,10 @@ public class FirstClass {
 
 		System.out.println("Conflict from local master");
 		System.out.println("Merge Conflict from local master");
+		list.add("J");
+		list.add("T");
+		list.add("G");
+		list.add("F");
 
 	}
 
