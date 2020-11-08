@@ -13,14 +13,14 @@ public class FirstClass {
 		System.out.println("Third commit from local Master Branch");
 		System.out.println("Fourth commit from remote Master Branch");
 		List<String> list1 = new ArrayList<>();
-		list.add("J");
-		list.add("T");
-		list.add("G");
-		list.add("F");
+		list1.add("J");
+		list1.add("T");
+		list1.add("G");
+		list1.add("F");
 		for (int i=0; i<3;i++){
 			System.out.println("From Git hub hello");
 		}
-		System.out.println(list);
+		System.out.println(list1);
 
 		System.out.println("Conflict2 from local master");
 
@@ -29,17 +29,17 @@ public class FirstClass {
 		System.out.println("Conflict from local master");
 		System.out.println("Merge Conflict from local master");
 
-		list.add("tr");
+		list1.add("tr");
 
-		list.add("J");
-		list.add("T");
-		list.add("G");
-		list.add("F");
-		list.add("J");
-		list.add("t");
-		list.add("r");
-		list.add("u");
-		System.out.println(list);
+		list1.add("J");
+		list1.add("T");
+		list1.add("G");
+		list1.add("F");
+		list1.add("J");
+		list1.add("t");
+		list1.add("r");
+		list1.add("u");
+		System.out.println(list1);
 		System.out.println("Changes from local John branch");
 
 		System.out.println("Conflicts on local John");
