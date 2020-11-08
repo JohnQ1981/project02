@@ -1,6 +1,8 @@
 package firstpackage;
-import java.util.List;
+
 import java.util.ArrayList;
+import java.util.List;
+
 public class FirstClass {
 
 	public static void main(String[] args) {
@@ -18,7 +20,7 @@ public class FirstClass {
 			System.out.println("From Git hub hello");
 		}
 		System.out.println(list);
-		
+
 	}
 
 }
