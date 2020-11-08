@@ -12,6 +12,7 @@ public class FirstClass {
 		List<String> list = new ArrayList<>();
 		list.add("J");
 		list.add("T");
+		list.add("G");
 		for (int i=0; i<3;i++){
 			System.out.println("From Git hub hello");
 		}
