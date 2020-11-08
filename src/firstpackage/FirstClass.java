@@ -52,7 +52,7 @@ public class FirstClass {
 		List<String> list = new ArrayList<>();
 		for(int i =0 ; i<a; i++) {
 			System.out.println("Now Enter Strings for the list");
-			list.add(scan.nextLine());
+			list.add(scan.next());
 		}
 		System.out.println("Your list is "+ list);
 	}
