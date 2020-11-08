@@ -55,6 +55,7 @@ public class FirstClass {
 			list.add(scan.next());
 		}
 		System.out.println("Your list is "+ list);
+		list.stream().filter(t->t.startsWith("a")).forEach(System.out::println);;
 	}
 
 }
