@@ -56,7 +56,7 @@ public class FirstClass {
 		}
 		System.out.println("Your list is "+ list);
 		list.stream().filter(t->t.startsWith("a")).forEach(System.out::println);;
-		list.stream().distinct().filter(t->t.length()<6).forEach(System.out::print);
+		list.stream().distinct().filter(t->t.length()<6).forEach(System.out::println);
 	}
 
 }
