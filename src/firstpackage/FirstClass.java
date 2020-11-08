@@ -20,6 +20,7 @@ public class FirstClass {
 			System.out.println("From Git hub hello");
 		}
 		System.out.println(list);
+		System.out.println("Conflict from local master");
 		System.out.println("Merge Conflict from local master");
 
 	}
