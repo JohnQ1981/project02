@@ -17,6 +17,7 @@ public class FirstClass {
 		for (int i=0; i<3;i++){
 			System.out.println("From Git hub hello");
 		}
+		System.out.println(list);
 		
 	}
 
