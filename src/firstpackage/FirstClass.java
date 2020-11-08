@@ -38,6 +38,7 @@ public class FirstClass {
 		list.add("t");
 		list.add("r");
 		list.add("u");
+		System.out.println(list);
 
 
 	}
