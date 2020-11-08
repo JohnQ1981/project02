@@ -27,6 +27,7 @@ public class FirstClass {
 
 		System.out.println("Conflict from local master");
 		System.out.println("Merge Conflict from local master");
+		list.add("tr");
 
 	}
 
