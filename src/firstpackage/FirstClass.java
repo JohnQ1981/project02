@@ -34,6 +34,11 @@ public class FirstClass {
 		list.add("T");
 		list.add("G");
 		list.add("F");
+		list.add("J");
+		list.add("t");
+		list.add("r");
+		list.add("u");
+		System.out.println(list);
 
 
 	}
